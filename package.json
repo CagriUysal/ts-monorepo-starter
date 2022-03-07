@@ -1,0 +1,8 @@
+{
+  "name": "ts-monorepo-starter",
+  "version": "1.0.0",
+  "description": "typescript monorepo starter",
+  "main": "index.js",
+  "author": "cagri <muysal.cagri@gmail.com>",
+  "license": "MIT"
+}
