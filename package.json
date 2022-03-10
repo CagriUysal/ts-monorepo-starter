@@ -4,5 +4,12 @@
   "description": "typescript monorepo starter",
   "main": "index.js",
   "author": "cagri <muysal.cagri@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
