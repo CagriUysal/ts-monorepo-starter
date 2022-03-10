@@ -1,4 +1,7 @@
 node_modules
 
-# ts build files
+# TypeScript build files
 dist
+
+# TypeScript cache
+*.tsbuildinfo
