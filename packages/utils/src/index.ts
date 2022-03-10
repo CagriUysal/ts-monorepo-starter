@@ -1,5 +1,3 @@
-function askForMeaningOfLife() {
-  console.log("What's the meaning of life?");
+export function giveMeaningOfLife() {
+  return 42;
 }
-
-export default askForMeaningOfLife;
